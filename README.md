@@ -1,5 +1,5 @@
 # Notas:
-Mi primer programa en note
+Mi primer programa en node
 
 ```
 Options:
